@@ -92,10 +92,3 @@ Program menampilkan:
 - Grafik membership function  
 - Visualisasi hasil output fuzzy  
 
-
----
-
-## 👩‍💻 Author
-
-**Naila Alifa**  
-Mahasiswa Informatika UNSOED
